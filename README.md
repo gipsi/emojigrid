@@ -1,2 +1,2 @@
 # emojigrid
-CSS Grid with emogi
+CSS Grid with emoji
