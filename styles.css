@@ -34,7 +34,7 @@ html {
 }
 
 body {
-  background-image: url("catkins2.jpg"),
+  background-image: url("catkins.jpg"),
     linear-gradient(110deg, #3f6285, #4783b9);
   background-size: 340px, auto;
   min-height: calc(100vh - 100px);
